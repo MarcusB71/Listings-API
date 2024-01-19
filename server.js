@@ -1,3 +1,16 @@
+/*********************************************************************************
+ * WEB422 – Assignment 1
+ *
+ * I declare that this assignment is my own work in accordance with Seneca's
+ * Academic Integrity Policy:
+ *
+ * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+ *
+ * Name: Marcus Brown Student ID: 127900223 Date: 2024/01/19
+ *
+ * Published URL: https://listings-api-xa0v.onrender.com/
+ *
+ **********************************************************************************/
 const express = require('express');
 const app = express();
 const HTTP_PORT = process.env.PORT || 8080;
